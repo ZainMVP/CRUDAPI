@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1m4zHcZO439YFNZLxySQ2ey35g83KOy64OKTh9icX9iQ9ht1zf1DOgNnnPlzSc1rDZxrPu0x6FcVTUIF0zSAyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\CRUDAPI\\CRUDAPI\\CRUDAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.27\\microsoft.aspnetcore.jsonpatch.3.1.27.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.27\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.27.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
